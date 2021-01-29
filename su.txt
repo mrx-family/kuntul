@@ -2,15 +2,15 @@
     "data": [
         {
             "name": "hengky",
-            "id": "12345"
+            "id": "1"
         },
         {
             "name": "setiawan",
-            "id": "12345"
+            "id": "12"
         },
         {
             "name": "isrofil",
-            "id": "12345"
+            "id": "123"
         }
     ]
 }
